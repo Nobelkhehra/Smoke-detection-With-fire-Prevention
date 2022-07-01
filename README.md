@@ -1,1 +1,2 @@
 # Smoke-detection-With-fire-Prevention
+SMOKE DETECTION WITH FIRE PREVENTION USINGCISCO PACKET TRACERCisco packet tracer is being used to implement this projectbecause it allows us to simulate different types of networkvirtually,especially,wireless networks and Internet OfThings(IoT) devices.In the Cisco Packet Tracer, the devices appear as they are inreality, and users can monitor and interact with variouswireless and IoT devices.
